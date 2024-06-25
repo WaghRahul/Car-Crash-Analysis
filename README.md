@@ -1,17 +1,15 @@
-# Car-Crash-Analysis-Mentorness-DA-Internship-Project-2
+# Car Crash Analysis Dashboard
 
-**Project Description**: The dashboard displays a variety of data on car crashes, including:
-* The number of crashes by month, day of the week, and hour of the day
-* The number of crashes by primary and secondary contributory cause
-* The number of crashes by traffic control device condition
-* The number of injuries 
+***Overview:***
+Developed an interactive dashboard to analyze car crash data, providing insights to reduce accidents and improve road safety.
 
-This data can be used to identify trends and patterns in car crashes. This information can then be used to develop programs and policies to reduce the number of car crashes and injuries.
+***Key Features:***
+- **Data Visualization:** Displayed crashes by month, day, hour, and contributory causes.
+- **Trend Analysis:** Identified common crash times, locations, and causes.
+- **Traffic Control Assessment:** Evaluated crashes involving different traffic control devices.
+- **Safety Evaluation:** Analyzed injury data and assessed traffic safety program effectiveness.
 
-Here are some of the things that the dashboard might be used for:
-* Identify the days, times, and locations where car crashes are most common
-* Identify the most common causes of car crashes
-* Identify the types of traffic control devices that are most likely to be involved in car crashes
-* Evaluate the effectiveness of different traffic safety programs
+***Skills Used:*** Power BI, Data Analysis, Data Visualization, DAX, Dashboard Development, Trend Analysis.
 
-By identifying these trends and patterns, law enforcement agencies, transportation departments, and other stakeholders can develop programs and policies to reduce the number of car crashes and injuries.
+***Conclusion:***
+This dashboard aids law enforcement and transportation agencies develop targeted programs and policies to reduce car crashes and enhance road safety.
